@@ -1,7 +1,24 @@
 ---
-cover: "./bin_al.png"
-date: "2019-09-12"
-title: "Nintendo N8 Controller"
+cover: "./n8.jpg"
+date: "2020-12-12"
+title: "Project: Nintendo N8 Controller"
 areas:
-  - Instagram
+  - Class Project
 ---
+# Goal: Create an interface to communicate between a Nintendo controller and an FPGA
+In this project, I was tasked with programming an FPGA to communicate with a Nintendo N8 gamepad.
+
+This project involved two main components: 1) generating latch and pulse waveforms within an FPGA to signal to the controller when to send certain data and 2) reading the data sent by the controller to light up LEDs on the FPGA.
+
+The FPGA creates the desired waveform by sequentially writing an output pin high then low for a predetermined amount of time. Each pulse of the waveform represents a different gamepad button, whose state would be sent to the FPGA on the rising edge of its pulse.
+
+![N8 Waveform](n8_waveform.JPG)
+
+<img alt="N8 Waveform" src="n8_waveform.JPG" />
+
+
+My high-level approach to this project was to create a state machine, with each state representing a different pulse/button. 
+
+![N8 State Machine](n8_statemachine.JPG)
+
+This project was written in Verilog, compiled using Quartus.
