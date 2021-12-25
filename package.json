@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "emilia",
-  "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.",
+  "name": "Ramsey",
+  "description": "Personal Website",
   "version": "0.3.11",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Ramsey Nofal",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-emilia",
   "scripts": {
