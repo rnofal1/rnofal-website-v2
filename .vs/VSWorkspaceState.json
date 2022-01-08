@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content\\assets",
+    "\\content",
     "\\content\\projects",
-    "\\content\\projects\\ars-aurea",
     "\\content\\projects\\depthpred",
-    "\\content\\projects\\emilia",
-    "\\content\\projects\\jodie",
-    "\\content\\projects\\minimal-blog",
-    "\\content\\projects\\nintendo-n8",
-    "\\content\\projects\\sillyql"
+    "\\content\\projects\\sillyql",
+    "\\src",
+    "\\src\\@lekoarts",
+    "\\src\\@lekoarts\\gatsby-theme-emilia",
+    "\\src\\@lekoarts\\gatsby-theme-emilia\\components",
+    "\\src\\@lekoarts\\gatsby-theme-emilia\\texts"
   ],
+  "SelectedNode": "\\content\\projects\\depthpred\\index.mdx",
   "PreviewInSolutionExplorer": false
 }
