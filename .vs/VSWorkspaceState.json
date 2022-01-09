@@ -3,7 +3,7 @@
     "",
     "\\content",
     "\\content\\projects",
-    "\\content\\projects\\depthpred",
+    "\\content\\projects\\nintendo-n8",
     "\\content\\projects\\sillyql",
     "\\src",
     "\\src\\@lekoarts",
@@ -11,6 +11,6 @@
     "\\src\\@lekoarts\\gatsby-theme-emilia\\components",
     "\\src\\@lekoarts\\gatsby-theme-emilia\\texts"
   ],
-  "SelectedNode": "\\content\\projects\\depthpred\\index.mdx",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
