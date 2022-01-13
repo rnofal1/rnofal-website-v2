@@ -3,14 +3,14 @@
     "",
     "\\content",
     "\\content\\projects",
-    "\\content\\projects\\nintendo-n8",
+    "\\content\\projects\\courses",
     "\\content\\projects\\sillyql",
+    "\\content\\projects\\website",
     "\\src",
     "\\src\\@lekoarts",
     "\\src\\@lekoarts\\gatsby-theme-emilia",
-    "\\src\\@lekoarts\\gatsby-theme-emilia\\components",
     "\\src\\@lekoarts\\gatsby-theme-emilia\\texts"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\content\\projects\\website\\index.mdx",
   "PreviewInSolutionExplorer": false
 }
